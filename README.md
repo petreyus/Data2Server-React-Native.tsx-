@@ -3,7 +3,7 @@ React Native: Sending data to/from Node.js(Express.js) Server:
 
 1: Change the IP address to your localhost (don't use localhost since if youre testing on your mobile device it will not connect).
 
-2: expo start (once you cd to correct folder).
+2: Expo start (once you cd to the correct folder).
 
 2: Run on web browser. 
 
