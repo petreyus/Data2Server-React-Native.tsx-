@@ -6,7 +6,8 @@ Next problem to be solved: changing background images seemlessly on IOS devices.
 
 React Native: Sending data to/from Node.js(Express.js) Server:
 
-1: Change the IP address to your localhost (don't use localhost since if youre testing on your mobile device it will not connect).
+1: Change the IP address to your localhost. 
+        ^NOTE: don't use 'localhost' since if youre testing on your mobile device it will refer to itself and then not connect).
 
 2: Expo start (once you cd to the correct folder).
 
