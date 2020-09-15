@@ -11,7 +11,7 @@ export default function App() {
   
   return (
     <View style={styles.container}>
-     <Text> "Hallo welt"</Text>
+     <Text> "Breathing"</Text>
       
       
       <Button style= {styles.button} 
