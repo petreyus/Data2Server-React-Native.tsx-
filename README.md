@@ -14,9 +14,9 @@ Next problem to be solved: changing background images seemlessly on IOS devices.
 3: Start server.tsx via Node
 
 2: Run on web browser option on Expo after it has started.              
-        ^NOTE: to access on your mobile device use the tunnel option on expo and copy the link on your device.
+        *^NOTE: to access on your mobile device use the tunnel option on expo and copy the link on your device.*
 
 Watch as your data moves from my react application to the Node.js (using express) server and back again!
 
-Final NOTE: check out the branches to see newer changes that I am currently devloping.
+*Final NOTE: check out the branches to see newer changes that I am currently devloping.
 
