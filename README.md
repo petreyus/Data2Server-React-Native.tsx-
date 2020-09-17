@@ -1,5 +1,5 @@
 # Breathing app
-<h2>To Do List:
+<h2>To Do List:</h2>
 1. [x]1st problem solved:~~sending data to and from a server.~
 2. [x]2nd problem solved:~~changing background images on IOS devices.~~
 
