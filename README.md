@@ -1,4 +1,4 @@
-# Breathing app
+# Breathing app (Breath Sir Size)
 <h2>To Do List:</h2>
 
 - [x] 1st problem solved: ~~sending data to and from a server.~~
