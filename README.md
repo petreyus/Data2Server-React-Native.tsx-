@@ -8,7 +8,7 @@
 - [] Next problem to be solved: Timer function when user toggels/presses bench mark breath button.
 
 
-<h1> React Native: Sending data to/from Node.js(Express.js) Server:</h1>
+<h1> Sending data to/from Node.js(Express.js) Server(React Native:):</h1>
 
 1: Change the IP address to your localhost. 
        * ^NOTE: don't use 'localhost' since if youre testing on your mobile device it will refer to itself and then not connect).*
