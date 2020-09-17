@@ -1,5 +1,3 @@
-
-
 const express = require('express');
 // this enables me to parse the data that comes from the client
 var bodyParser = require('body-parser');
@@ -17,7 +15,7 @@ app.use(bodyParser.urlencoded({
 
 
 // the below code allows me to send text not just json
-// works with react native!
+// works with react native
 app.use(bodyParser.text());
 
 
@@ -47,17 +45,12 @@ app.post('/', (req, res, next) => {
    
     
  
-  // res.send("working");
+
 
  
  console.log(req.body);
  res.send(JSON.stringify("Reply from server working!"))
- //res.send(JSON.stringify("working"))
  
- 
- // res.send({test: 'Working!'});
 
-   // console.log(res.body);
-  
     
 });
