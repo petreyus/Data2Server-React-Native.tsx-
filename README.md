@@ -1,6 +1,6 @@
 # React-Native-Application: Breathing app
-Current problem solved: sending data to and from a server.
-Next problem: changing background images seemlessly on IOS devices.
+1st problem solved: sending data to and from a server.
+2nd problem solved: changing background images on IOS devices.
 
 Next problem to be solved: Timer function when user toggels/presses bench mark breath button.
 
