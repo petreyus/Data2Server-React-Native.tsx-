@@ -18,4 +18,5 @@ React Native: Sending data to/from Node.js(Express.js) Server:
 
 Watch as your data moves from my react application to the Node.js (using express) server and back again!
 
+Final NOTE: check out the branches to see newer changes that I am currently devloping.
 
