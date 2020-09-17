@@ -1,11 +1,11 @@
 # React-Native-Application: Breathing app
-[x]1st problem solved: sending data to and from a server.
-[x]2nd problem solved: changing background images on IOS devices.
+1. [x]1st problem solved: sending data to and from a server.
+2. [x]2nd problem solved: changing background images on IOS devices.
 
-[]Next problem to be solved: Timer function when user toggels/presses bench mark breath button.
+3. []Next problem to be solved: Timer function when user toggels/presses bench mark breath button.
 
 
-<h1> React Native: Sending data to/from Node.js(Express.js) Server:
+<h1> React Native: Sending data to/from Node.js(Express.js) Server:</h1>
 
 1: Change the IP address to your localhost. 
        * ^NOTE: don't use 'localhost' since if youre testing on your mobile device it will refer to itself and then not connect).*
