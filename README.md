@@ -1,10 +1,11 @@
 # Breathing app
 <h2>To Do List:</h2>
-- [x]1st problem solved:~~sending data to and from a server.~~
 
-- [x]2nd problem solved:~~changing background images on IOS devices.~~
+- [x] 1st problem solved: ~~sending data to and from a server.~~
 
-- []Next problem to be solved: Timer function when user toggels/presses bench mark breath button.
+- [x] 2nd problem solved :~~changing background images on IOS devices.~~
+
+- [] Next problem to be solved: Timer function when user toggels/presses bench mark breath button.
 
 
 <h1> React Native: Sending data to/from Node.js(Express.js) Server:</h1>
