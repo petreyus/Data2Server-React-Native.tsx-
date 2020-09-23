@@ -1,14 +1,4 @@
-# Breathing app (Breath Sir Size)
-<h2>To Do List:</h2>
-
-- [x] 1st problem solved: ~~sending data to and from a server.~~
-
-- [x] 2nd problem solved :~~changing background images on IOS devices.~~
-
-- [] Next problem to be solved: Timer function when user toggels/presses bench mark breath button.
-
-
-<h1> Sending data to/from Node.js (Express.js) Server (React N):</h1>
+# <h1> Sending data to/from Node.js (Express.js) Server (React N):</h1>
 
 1: Change the IP address to your localhost. 
        * ^NOTE: don't use 'localhost' since if youre testing on your mobile device it will refer to itself and  not connect).*
