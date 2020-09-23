@@ -49,7 +49,7 @@ app.post('/', (req, res, next) => {
 
  
  console.log(req.body);
- res.send(JSON.stringify("Reply from server working!"))
+ res.send(JSON.stringify("Hello from your server"))
  
 
     
