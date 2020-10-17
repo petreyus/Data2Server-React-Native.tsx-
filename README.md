@@ -10,6 +10,6 @@
 2: Run on web browser option on Expo after it has built.              
         *^NOTE: to access on your mobile device use the tunnel option on expo and copy the link on your device.*
 
-~~Be astounded as your data moves from the react application to the Node.js (using express) server and back.
+
 
 
