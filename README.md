@@ -1,7 +1,8 @@
 # <h1> Sending data to/from Node.js (Express.js) Server (React N):</h1>
 
 1: Change the IP address to your localhost. 
-*^NOTE: don't use 'localhost' since if youre testing on your mobile device it will refer to itself and  not connect).*
+
+   *^NOTE: don't use 'localhost' since if youre testing on your mobile device it will refer to itself and  not connect).*
 
 2: Expo start (once you cd to the correct folder).
 
