@@ -2,7 +2,7 @@
 
 1: Change the IP address to your localhost. 
 
-   *^NOTE: don't use 'localhost' since if youre testing on your mobile device it will refer to itself and  not connect).*
+   *^NOTE: don't use 'localhost' since if you're testing on your mobile device it will refer to itself and  not connect).*
 
 2:` Expo start` (once you navigate to the correct folder).
 
